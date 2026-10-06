@@ -1,0 +1,11 @@
+Object	Convention	Example
+Tables	PascalCase, singular	PerformanceReview
+Columns	PascalCase	HireDate
+Primary key column	TableNameID	EmployeeID
+Date columns	End with Date	ExitDate
+PK constraint	PK_Table	PK_Employee
+FK constraint	FK_Child_Parent	FK_Employee_Department
+UNIQUE	UQ_Table_Column	UQ_Employee_Email
+CHECK	CK_Table_Rule	CK_PerformanceReview_Rating
+DEFAULT	DF_Table_Column	DF_Employee_EmploymentType
+Index (Day 11)	IX_Table_Columns	IX_Attendance_EmployeeID_Date
