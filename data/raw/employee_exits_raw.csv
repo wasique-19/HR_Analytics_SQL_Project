@@ -1,0 +1,107 @@
+EmployeeCode,ExitDate,ExitReason,Notes
+NP0019,2023-02-05,Better Pay,
+NP0023,2022-05-06,Poor Performance,
+NP0026,2023-01-08,Restructuring,
+NP0040,2023-12-31,Better Pay,
+NP0044,2024-09-08,Work-Life Balance,
+NP0053,2024-10-24,Poor Management,Role eliminated during restructuring
+NP0056,2024-08-31,Career Growth,
+NP0058,2025-07-30,Poor Performance,Pursuing MBA
+NP0062,2024-10-16,Relocation,
+NP0063,2024-07-02,Relocation,"Relocating to another city, family reasons"
+NP0066,2025-12-09,Restructuring,
+NP0083,2023-12-04,Work-Life Balance,
+NP0088,2025-12-06,Poor Performance,
+NP0090,2024-11-11,Career Growth,
+NP0093,2024-03-05,Career Growth,
+NP0101,2023-08-31,Career Growth,
+NP0102,2022-11-16,Better Pay,
+NP0116,2024-12-03,Career Growth,
+NP0118,2024-11-11,Higher Studies,
+NP0123,2024-11-19,Poor Performance,
+NP0126,2023-09-15,Better Pay,
+NP0128,2023-03-23,Poor Management,
+NP0130,2022-10-30,Poor Management,"Joined a competitor, offered a higher package"
+NP0131,2023-10-27,Relocation,
+NP0133,2025-05-09,Restructuring,Role eliminated during restructuring
+NP0136,2023-01-31,Poor Management,
+NP0139,2022-06-19,Work-Life Balance,Pursuing MBA
+NP0150,2022-05-11,Relocation,
+NP0165,2025-04-12,Poor Management,
+NP0166,2025-09-10,Relocation,Pursuing MBA
+NP0169,2025-03-23,Poor Management,
+NP0170,2022-09-13,Career Growth,
+NP0171,2024-10-04,Poor Management,
+NP0176,2022-07-22,Better Pay,"Relocating to another city, family reasons"
+NP0181,2025-06-28,Career Growth,
+NP0182,2024-07-23,Relocation,
+NP0184,2025-11-30,Poor Management,
+NP0187,2025-12-07,Poor Performance,
+NP0189,2024-12-24,Better Pay,
+NP0194,2022-08-07,Higher Studies,
+NP0195,2024-12-14,Relocation,
+NP0201,2024-03-08,Poor Management,
+NP0204,2024-02-04,Poor Performance,
+NP0205,2025-10-10,Work-Life Balance,
+NP0221,2025-11-22,Poor Performance,"Joined a competitor, offered a higher package"
+NP0222,2023-05-07,Better Pay,
+NP0242,2023-04-19,Poor Management,
+NP0244,2023-11-04,Poor Performance,
+NP0245,2024-11-28,Better Pay,
+NP0256,2025-08-11,Poor Performance,
+NP0264,2022-01-13,Career Growth,"Cited lack of growth, wants a bigger role"
+NP0265,2023-12-28,Poor Performance,
+NP0266,2025-06-01,Better Pay,
+NP0277,2024-06-07,Poor Performance,
+NP0281,2025-01-10,Better Pay,
+NP0300,2022-11-15,Poor Performance,"Cited lack of growth, wants a bigger role"
+NP0333,2025-11-11,Better Pay,Role eliminated during restructuring
+NP0339,2022-11-02,Career Growth,
+NP0342,2022-03-25,Restructuring,
+NP0351,2025-08-09,Career Growth,
+NP0367,2025-05-17,Work-Life Balance,
+NP0371,2025-03-20,Poor Management,
+NP0372,2022-09-19,Poor Performance,
+NP0382,2025-05-13,Better Pay,
+NP0385,2025-04-28,Poor Management,
+NP0393,2022-09-21,Misconduct,
+NP0408,2022-04-16,Work-Life Balance,
+NP0413,2025-12-15,Better Pay,
+NP0417,2024-04-29,Relocation,
+NP0420,2025-04-26,Poor Management,
+NP0430,2024-07-12,Work-Life Balance,
+NP0431,2024-06-25,Relocation,
+NP0434,2017-06-19,Poor Management,"Relocating to another city, family reasons"
+NP0438,2025-01-20,Higher Studies,Pursuing MBA
+NP0439,2024-07-16,Better Pay,
+NP0442,2022-09-12,Poor Management,
+NP0443,2025-10-26,Better Pay,
+NP0446,2024-05-18,Poor Performance,
+NP0448,2024-08-03,Work-Life Balance,
+NP0449,2023-04-05,Poor Performance,
+NP0450,2025-12-01,Work-Life Balance,
+NP0455,2023-08-01,Better Pay,
+NP0463,2025-09-28,Career Growth,
+NP0464,2025-01-17,Poor Management,"Joined a competitor, offered a higher package"
+NP0468,2022-10-30,Work-Life Balance,
+NP0469,2025-06-09,Better Pay,
+NP0476,2025-09-01,Poor Management,
+NP0480,2025-11-20,Poor Management,"Joined a competitor, offered a higher package"
+NP0485,2025-07-14,Work-Life Balance,
+NP0486,2024-08-17,Career Growth,"Relocating to another city, family reasons"
+NP0487,2025-02-27,Better Pay,
+NP0488,2023-03-30,Better Pay,"Relocating to another city, family reasons"
+NP0489,2025-03-11,Work-Life Balance,
+NP0490,2024-12-16,Relocation,
+NP0493,2023-08-04,Better Pay,Role eliminated during restructuring
+NP0503,2022-07-08,Better Pay,Pursuing MBA
+NP0504,2024-03-14,Poor Performance,
+NP0521,2025-06-11,Restructuring,
+NP0523,2025-08-26,Better Pay,
+NP0525,2025-03-13,Work-Life Balance,Performance improvement plan not successful
+NP0535,2024-03-13,Better Pay,
+NP0536,2025-04-17,Work-Life Balance,"Relocating to another city, family reasons"
+NP0537,2025-08-01,Better Pay,
+NP0538,2022-11-26,Higher Studies,
+NP0542,2023-08-19,Career Growth,
+NP0547,2022-11-09,Better Pay,Performance improvement plan not successful
