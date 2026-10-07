@@ -3,6 +3,8 @@
    Purpose : Adds foreign keys and CHECK constraints
    Run     : After 02_create_tables.sql
    ========================================================== */
+USE HR_Analytics;
+GO
 
 -- ---------- FOREIGN KEYS ----------
 

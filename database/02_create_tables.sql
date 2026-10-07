@@ -4,6 +4,8 @@
    Purpose : Creates all 11 tables (structure, PKs, UNIQUE, DEFAULTs)
    Notes   : FKs and CHECKs are added in 03_constraints.sql
    ========================================================== */
+USE HR_Analytics;
+GO
 
 -- ---------- 1. LOOKUP / MASTER TABLES ----------
 
